@@ -7,6 +7,9 @@
 <img src="https://i.ibb.co/cQMLbhT/AEB6-DB02-AA9-B-4977-91-E7-B6007799-CC2-B.png">
 </div>
 
+#ENCRYPTION
+https://github.com/skadro-official/skCrypter
+
 # Repo
 you can get r16Menu from here as well and other useful tools
 https://rednick16.com/repo
@@ -31,10 +34,6 @@ https://rednick16.com/repo
   * Write unlimited bytes to a offset
 
 <br>
-
-### Encryption
-I did not include encryption you will have to make your own to encrypt nsstrings.
-
 ### Installation:
 
 Download the modmenu template paste in /var/theos/templates/ios/theos
