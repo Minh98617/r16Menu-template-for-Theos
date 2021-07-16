@@ -7,8 +7,11 @@
 <img src="https://i.ibb.co/cQMLbhT/AEB6-DB02-AA9-B-4977-91-E7-B6007799-CC2-B.png">
 </div>
 
-#ENCRYPTION it needs work.
-https://github.com/skadro-official/skCrypter
+#encryption for my modmenu :usage FBEncrypt("str")
+https://github.com/Rednick16/cpp11-compile-time-string-obfuscation/blob/main/README.md
+
+#Move to teds modmenu for future updates
+https://github.com/joeyjurjens/iOS-Mod-Menu-Template-for-Theos
 
 # Repo
 you can get r16Menu from here as well and other useful tools
